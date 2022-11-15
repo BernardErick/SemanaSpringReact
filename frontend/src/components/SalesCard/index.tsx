@@ -16,7 +16,7 @@ function SalesCard() {
                         className="dsmeta-form-control"
                         dateFormat="dd/MM/yyyy"
                     />
-                </div>
+                </div> 
                 <div className="dsmeta-form-control-container">
                     <DatePicker
                         selected={new Date()}
