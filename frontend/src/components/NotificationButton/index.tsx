@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { toast } from 'react-toastify';
 import icon from '../../assets/img/notification-icon.svg'
-import { BASE_URL } from '../../utils/request'
+import { BASE_URL } from '../../enviroments/request'
 import './styles.css'
 
 type Props = {
